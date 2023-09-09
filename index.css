@@ -1,0 +1,38 @@
+/* Write your code here. */
+.b1 {
+  height: 50px;
+  width: 50px;
+  background-color: #fbbf24;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+.b2 {
+  height: 100px;
+  width: 100px;
+  background-color: #38bdf8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+.b3 {
+  height: 150px;
+  width: 150px;
+  background-color: #ec4899;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+.x {
+  display: flex;
+  flex-direction: row;
+}
+.xx {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
